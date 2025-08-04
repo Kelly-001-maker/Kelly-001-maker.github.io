@@ -1,9 +1,9 @@
 # Kelly-001-maker.github.io
 Portfolio
-# 👋 Hi, I'm [Your Name]
+# Hi, I'm [Your Name]
 **Cybersecurity Enthusiast | CTF Solver | Junior Developer**
 
-## 📄 Resume
+## Resume
 - 🎓 Education: BSc. Computer Science – XYZ University
 - 🛠️ Skills: Python, Linux, Burp Suite, Wireshark
 - 📜 Certifications: CompTIA Security+, TryHackMe
